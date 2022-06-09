@@ -1,1 +1,1 @@
-# DjangoSolomon
+# ZuriDjangoProject
