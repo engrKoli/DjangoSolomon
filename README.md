@@ -1,1 +1,1 @@
-# ZuriDjangoProject
+# SolomonEkoProject
